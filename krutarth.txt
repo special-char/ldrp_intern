@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is krutarth ldrp_student.
+=======
+this is krutarth.
+>>>>>>> 644092f9466da06a8f4e9962382c25821c22a02d
